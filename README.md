@@ -7,4 +7,6 @@
 * Strogonoff de Frango
 * Batata Recheada
 * Pavê
+* Bolo de Cenoura
+
 
