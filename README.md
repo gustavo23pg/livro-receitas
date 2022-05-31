@@ -5,5 +5,6 @@
  Receitas contidas nesse volume:
 
 * Strogonoff de Frango
+* Batata Recheada
 * Pavê
 
