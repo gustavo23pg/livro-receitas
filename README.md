@@ -5,8 +5,10 @@
  Receitas contidas nesse volume:
 
 * Strogonoff de Frango
-* Batata Recheada
-* Pavê
-* Bolo de Cenoura
 
+* Batata Recheada
+
+* Pavê
+
+  
 
